@@ -21,6 +21,3 @@ Feel free to fork this repository, make improvements, and submit a pull request!
 ## License
 This project is open-source and available under the MIT License.
 
----
-
-You can adjust any section of the README to better fit your project, such as adding more features, a deeper explanation, or any future plans! Just copy and paste it into a new `README.md` file in your GitHub repository.
