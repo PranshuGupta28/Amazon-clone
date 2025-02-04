@@ -21,3 +21,4 @@ Feel free to fork this repository, make improvements, and submit a pull request!
 ## License
 This project is open-source and available under the MIT License.
 
+**Live :-** https://pranshugupta28.github.io/Amazon-clone/
